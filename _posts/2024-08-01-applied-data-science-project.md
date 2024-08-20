@@ -43,10 +43,6 @@ We removed duplicated rows
 ![image](https://github.com/user-attachments/assets/b8af473a-c1ea-4a17-8d3f-886e08fa28f9)
 
 
-
-
-![image](https://github.com/user-attachments/assets/967b2f2b-2c59-4954-bdac-9402f9120910)
-
 ### Data Preparation
 Following re-processing of text data was done:
 1. Converted all words to lower case and tokenised
@@ -56,10 +52,12 @@ Following re-processing of text data was done:
 
 After this, we did a check for frequently appearing words and found that "movie" kept appearing.
 We then updated our stop words to also include movie as we deemed it to be a domain stop word.
-
-![image](https://github.com/user-attachments/assets/fc9d0eab-13cf-4a44-b001-7f1845505dad)
+![image](https://github.com/user-attachments/assets/967b2f2b-2c59-4954-bdac-9402f9120910)
 
 I then split data into positive and negative reviews so that I can perform topic modeling for each sentiment to get topics prevalent in each of the sentiments.
+![image](https://github.com/user-attachments/assets/fc9d0eab-13cf-4a44-b001-7f1845505dad)
+
+
 ![image](https://github.com/user-attachments/assets/6b7143f5-0e20-4e6c-8b68-522bebb8a695)
 
 Before embarking on the modeling, I created a bag of words for each of the sentiments.

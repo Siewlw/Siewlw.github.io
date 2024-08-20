@@ -35,15 +35,16 @@ Here is a brief timeline of how we collected data and eventually did our modelin
 
 ### Exploratory Data Analysis (EDA) of text data
 Data consisted of 50K rows and 2 columns. There were no empty data.
+After this, we checked for duplicates and found that there were 824 duplicated reviews 
 ![image](https://github.com/user-attachments/assets/af93f9fb-b502-49c9-aa7b-d6c36b9bef51)
 
-After this, we checked for duplicates and found that there were 824 duplicated reviews 
 
+We removed duplicated rows 
 ![image](https://github.com/user-attachments/assets/b8af473a-c1ea-4a17-8d3f-886e08fa28f9)
 
 
 
-We removed duplicated rows 
+
 ![image](https://github.com/user-attachments/assets/967b2f2b-2c59-4954-bdac-9402f9120910)
 
 ### Data Preparation

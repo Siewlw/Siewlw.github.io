@@ -100,8 +100,6 @@ This will help them save time, money, and effort when planning, hence allowing f
 ![image](https://github.com/user-attachments/assets/be24cb3b-9931-4fab-b3be-6765a6ff77a1)
 No personal and confidential information was included in the dataset. Failure of the models ability to accurately prediction of movie/show success is not expected to bring about harm to society, albeit at the cost of the production company.
 However, I do propose a human-in-the-loop arrangement as there is still a need for human decision to fine-tune and discuss what are the suitable topics for the audiences with vartious external factors kept in the decision-making process. Additional inputs needs to be collected from other sources to make a more informed and stratgic decision. This model should be intended for to support decision making, rather than to automate and draw conclusions on behalf of humans.
-![Uploading image.png…]()
-
 
 ## Source Codes and Datasets
 

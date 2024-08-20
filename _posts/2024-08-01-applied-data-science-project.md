@@ -57,6 +57,7 @@ We then updated out stop words to also include movie as we deemed it to be a dom
 I then split data into positive and negative reviews so that I can perform topic modeling for each sentiment to get topics prevalent in each of the sentiments.
 ![image](https://github.com/user-attachments/assets/6b7143f5-0e20-4e6c-8b68-522bebb8a695)
 
+
 Before embarking on the modeling, I created a bag of words for each of the sentiments.
 ![image](https://github.com/user-attachments/assets/9547829c-19b0-42e5-8844-9e074bccf023)
 

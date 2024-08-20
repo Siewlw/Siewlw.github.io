@@ -63,19 +63,20 @@ Before embarking on the modeling, I created a bag of words for each of the senti
 ![image](https://github.com/user-attachments/assets/6b7143f5-0e20-4e6c-8b68-522bebb8a695)
 
 
-I also ran a coherence analysis to see what is the optimal number of topics to run the LDA model.
+I ran a coherence analysis to see what is the optimal number of topics to run the LDA model.
 Number of topics was suggested to be 9 as the coherence score was the highest for both sentiments.
 ![image](https://github.com/user-attachments/assets/9547829c-19b0-42e5-8844-9e074bccf023)
 
 
-![image](https://github.com/user-attachments/assets/f1405224-52eb-4e12-9be7-009904a405f6)
+
 
 ### Modelling
 LDA models we created for each sentiment to sieve out what are the topics prevalent
-![image](https://github.com/user-attachments/assets/23bb8ad6-b715-4c68-a794-697d44b3a300)
+![image](https://github.com/user-attachments/assets/f1405224-52eb-4e12-9be7-009904a405f6)
 
 A visualization was also done to help us have a visual aid on the topics prevalent.
-![image](https://github.com/user-attachments/assets/be24cb3b-9931-4fab-b3be-6765a6ff77a1)
+![image](https://github.com/user-attachments/assets/23bb8ad6-b715-4c68-a794-697d44b3a300)
+
 
 ### Evaluation
 There were still many topics that were clumped together in each of the positive and negative sentiments.
@@ -96,6 +97,7 @@ With the results, we can highlight to movie writers what are the topics that the
 This will help them save time, money, and effort when planning, hence allowing for their attention to be channeled into other areas. 
 
 ## AI Ethics
+![image](https://github.com/user-attachments/assets/be24cb3b-9931-4fab-b3be-6765a6ff77a1)
 No personal and confidential information was included in the dataset. Failure of the models ability to accurately prediction of movie/show success is not expected to bring about harm to society, albeit at the cost of the production company.
 However, I do propose a human-in-the-loop arrangement as there is still a need for human decision to fine-tune and discuss what are the suitable topics for the audiences with vartious external factors kept in the decision-making process. Additional inputs needs to be collected from other sources to make a more informed and stratgic decision. This model should be intended for to support decision making, rather than to automate and draw conclusions on behalf of humans.
 ![Uploading image.png…]()

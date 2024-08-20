@@ -29,7 +29,7 @@ I would be embarking on business objective #2, and attempt to identify at least 
 ## Work Accomplished
 I would be using topic modeling on a text dataset containing 50k reviews each tagged to a positive/negative sentiment. The Text Dataset would be obtained from: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews. I would be performing pre-processing of the text data, followed by data transformation, and finally performing a Latent Dirichlet allocation (LDA) model to find out what topics are prevalent in positive and negative sentiments for movies. This is done in the hope of allowing movie producers to kick start their brainstorming process by narrowing down topics that viewers are interested in/have a positive sentiment with. 
 
-Here is a brief timeline of how we collected data and eventually did our modelling
+Here is a brief timeline of how we collected data and eventually did our modeling
 ![image](https://github.com/user-attachments/assets/92e83de8-91c9-4036-9aa3-58302ad14c23)
 
 

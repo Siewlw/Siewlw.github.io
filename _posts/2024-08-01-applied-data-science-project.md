@@ -53,13 +53,11 @@ Following re-processing of text data was done:
 3. Perfomed lemmatization
 ![image](https://github.com/user-attachments/assets/d9334a3e-aaab-48dd-96a3-8d32bea8164b)
 
-After this, we did a check for frequently appearing words and found that "movie" kept appearing.
-We then updated out stop words to also include movie as we deemed it to be a domain stop word.
+After this, we did a check for frequently appearing words and found that "movie" kept appearing.We then updated out stop words to also include movie as we deemed it to be a domain stop word.
 ![image](https://github.com/user-attachments/assets/fc9d0eab-13cf-4a44-b001-7f1845505dad)
 
 I then split data into positive and negative reviews so that I can perform topic modeling for each sentiment to get topics prevalent in each of the sentiments.
 ![image](https://github.com/user-attachments/assets/6b7143f5-0e20-4e6c-8b68-522bebb8a695)
-
 
 Before embarking on the modeling, I created a bag of words for each of the sentiments.
 ![image](https://github.com/user-attachments/assets/9547829c-19b0-42e5-8844-9e074bccf023)

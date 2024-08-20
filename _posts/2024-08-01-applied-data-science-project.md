@@ -55,16 +55,19 @@ We then updated our stop words to also include movie as we deemed it to be a dom
 ![image](https://github.com/user-attachments/assets/967b2f2b-2c59-4954-bdac-9402f9120910)
 
 I then split data into positive and negative reviews so that I can perform topic modeling for each sentiment to get topics prevalent in each of the sentiments.
+
 ![image](https://github.com/user-attachments/assets/fc9d0eab-13cf-4a44-b001-7f1845505dad)
 
 
+Before embarking on the modeling, I created a bag of words for each of the sentiments.
 ![image](https://github.com/user-attachments/assets/6b7143f5-0e20-4e6c-8b68-522bebb8a695)
 
-Before embarking on the modeling, I created a bag of words for each of the sentiments.
-![image](https://github.com/user-attachments/assets/9547829c-19b0-42e5-8844-9e074bccf023)
 
 I also ran a coherence analysis to see what is the optimal number of topics to run the LDA model.
 Number of topics was suggested to be 9 as the coherence score was the highest for both sentiments.
+![image](https://github.com/user-attachments/assets/9547829c-19b0-42e5-8844-9e074bccf023)
+
+
 ![image](https://github.com/user-attachments/assets/f1405224-52eb-4e12-9be7-009904a405f6)
 
 ### Modelling

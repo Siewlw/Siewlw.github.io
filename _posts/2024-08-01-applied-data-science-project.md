@@ -1,6 +1,6 @@
 ---
 layout: post
-author: NSiew Leong Wai
+author: Siew Leong Wai
 title: "Applied Data Science Project Documentation"
 categories: ITD214
 ---

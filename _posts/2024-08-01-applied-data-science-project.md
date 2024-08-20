@@ -102,4 +102,4 @@ No personal and confidential information was included in the dataset. Failure of
 However, I do propose a human-in-the-loop arrangement as there is still a need for human decision to fine-tune and discuss what are the suitable topics for the audiences with vartious external factors kept in the decision-making process. Additional inputs needs to be collected from other sources to make a more informed and stratgic decision. This model should be intended for to support decision making, rather than to automate and draw conclusions on behalf of humans.
 
 ## Source Codes and Datasets
-
+https://github.com/Siewlw/ITD214_Project
